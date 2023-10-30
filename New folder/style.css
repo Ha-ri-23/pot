@@ -1,0 +1,212 @@
+body{
+    margin: 0;
+}
+.nav{
+    width: 100%;
+    height: 70px;
+    background-color: rgba(239, 7, 7, 0.769);
+    position: fixed;
+    z-index: 3;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    display: inline;
+    padding-inline: 30px;    
+}
+
+.podcast{
+    font-size: 50px;
+    color:burlywood;
+}
+
+.home{
+    font-size: 20px;
+}
+
+.blog{
+    font-size: 20px;
+    border:none;
+    background-color: transparent;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+li :hover{
+    color: burlywood;
+     
+}
+.FAQ:hover,.about:hover,.contact:hover,.home:hover{
+    color: burlywood;   
+}
+
+.page{
+    font-size: 20px;
+    border:none;
+    background-color: transparent;
+    font-family: 'Times New Roman', Times, serif;
+}
+.contact{
+    font-size: 20px;
+}
+.FAQ{
+    font-size: 20px;
+}
+
+.about{
+    font-size: 20px;
+}
+
+.bb{
+    border: none;
+    font-size: 20px;
+    background-color: transparent;
+    font-family: 'Times New Roman', Times, serif;
+}
+.hh{
+    border: none;
+    font-size: 20px;
+    background-color: transparent;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.ss{
+    background-color: transparent;
+    border: none;
+    background-color: burlywood;
+    padding: 5px 5px 5px 5px;
+    border-radius: 6px;
+}
+
+.ss{
+    border: none;
+    width: 200px;
+}
+.ss:focus{
+    outline: none;
+}
+
+.image{
+    margin-top: 0px;
+    margin-left: 55%;
+}
+.lisa{
+    height: 750px;
+    width: 700px;
+
+}
+
+.text{
+    position:absolute;
+    top: 20%;    
+}
+
+.trand{
+    color:rgba(239, 7, 7, 0.769);
+}
+
+.dream{
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+
+.text{
+    margin-left:  20px;
+    color: black;
+}
+
+.audio{
+    position: absolute;
+    top: 60%;
+}
+
+.resent{
+    position: absolute;
+    top: 70%;
+    margin-left: 20px;
+    color:rgba(239, 7, 7, 0.769) ;
+}
+.fi{
+    position: absolute;
+    top: 80%;
+    height: 100px;
+    width: 100px;
+    border-radius: 8px;
+    border: red solid 3px;
+}
+.sec{
+    position: absolute;
+    top: 80%;
+    margin-left: 10%;
+    height: 100px;
+    width: 100px;
+    border-radius: 8px;
+    border: red solid 3px;
+}
+.th{
+    position: absolute;
+    top: 80%;
+    margin-left: 20%;
+    height: 100px;
+    width: 100px;
+    border-radius: 8px;
+    border: red solid 3px;
+}
+.lor{
+    position: absolute;
+    top: 93%;
+}
+.lora{
+    position: absolute;
+    top: 93%;
+    margin-left: 150px;
+}
+.fipp{
+    position: absolute;
+    top: 97%;
+    font-size: 10px;
+    opacity: 50%;
+}
+.secpp{
+    position: absolute;
+    top: 97%;
+    font-size: 10px;
+    opacity: 50%;
+    margin-left: 150px;
+}
+.loraa{
+    position: absolute;
+    top: 93%;
+    margin-left:310px ;
+}
+.thipp{
+    position: absolute;
+    top: 97%;
+    margin-left: 310px;
+    opacity: 50%;
+    font-size: 10px;
+}
+.divvv{
+    margin-left: 10px;
+}
+
+audio::-webkit-media-controls-panel{
+    background-color: white;
+}
+audio{
+    width:700px;
+}
+
+.mt{
+    color: black;
+    margin-left: 8px;
+    font-size: 30px;
+}
+.free{
+    font-size: 200%;
+
+
+}
